@@ -29,7 +29,7 @@ author_profile: true
 ## Preprint
 [Pre. 1] **Lee, K.**, and Paik, M.C. (2024). Doubly-Robust Off-Policy Evaluation with Estimated Logging Policy. [[ArXiv]](https://arxiv.org/abs/2404.01830)
 
-[Pre. 2] **Kim, Y.-G.**, ..., and Paik, M.C. (2023). Wasserstein geodesic generator for conditional distributions (under *Major Revision* at Journal of Machine Learning Research). [[ArXiv]](http://arxiv.org/abs/2308.10145) [[Code]](https://github.com/kyg0910/Wasserstein-Geodesic-Generator-for-Conditional-Distributions)
+[Pre. 2] Kim, Y.-G., **Lee, K.**, Choi., Y., Won., J.-H., and Paik, M.C. (2023). Wasserstein geodesic generator for conditional distributions (under *Major Revision* at Journal of Machine Learning Research). [[ArXiv]](http://arxiv.org/abs/2308.10145) [[Code]](https://github.com/kyg0910/Wasserstein-Geodesic-Generator-for-Conditional-Distributions)
 
 
  
