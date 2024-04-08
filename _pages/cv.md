@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-<a href="https://docs.google.com/viewer?url=https://github.com/KyungbokLee/KyungbokLee.github.io/blob/master/_pages/CV.pdf" target="_blank">Link to my CV.</a>
+<a href="https://github.com/KyungbokLee/KyungbokLee.github.io/blob/master/_pages/CV.pdf" target="_blank">Link to my CV.</a>
 
 
