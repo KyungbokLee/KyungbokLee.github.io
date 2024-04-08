@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Greetings!"
+title: "About Me - Kyungbok Lee"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am Kyungbok Lee, a postdoctoral reseacher at the Department of Data Science at Seoul National University (SNU) (Mentor: [Min-hwan Oh](https://scholar.google.com/citations?user=KzVALFwAAAAJ).
+I am Kyungbok Lee, a postdoctoral reseacher at the Department of Data Science at Seoul National University (SNU) (Mentor: [Min-hwan Oh](https://scholar.google.com/citations?user=KzVALFwAAAAJ)).
 
  My research topics include, but are not limited to:
 - Sequential decision making algorithms including bandit and reinforcment learning 
