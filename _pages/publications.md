@@ -24,7 +24,7 @@ author_profile: true
 [C2] Kim, W., **Lee, K.**, and Paik, M.C. (2023). Double Doubly Robust Thompson Sampling for Generalized Linear Contextual Bandits. *Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2023)*. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/26001/25773)
 
 ## Patent
-[Patent 1] Paik, M.C., **Kim, Y.-G.**, and Lee, K. Method and apparatus for conditional data generation using conditional Wasserstein generator. Republic of Korea Patent. [[Info]](https://doi.org/10.8080/1020210105611)
+[Patent 1] Paik, M.C., Kim, Y.-G., and **Lee, K.** Method and apparatus for conditional data generation using conditional Wasserstein generator. Republic of Korea Patent. [[Info]](https://doi.org/10.8080/1020210105611)
 
 ## Preprint
 [Pre. 1] **Lee, K.**, and Paik, M.C. (2024). Doubly-Robust Off-Policy Evaluation with Estimated Logging Policy. [[ArXiv]](https://arxiv.org/abs/2404.01830)
