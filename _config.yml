@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Kyungbok Lee"
 title_separator          : "-"
 name                     : &name "Kyungbok Lee"
-description              : &description "Postdoctoral Reseacher of Data Science"
+description              : &description "Postdoctoral Reseach Associate"
 url                      : https://kyungboklee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Kyungboklee/KyungbokLee.github.io"
@@ -25,10 +25,10 @@ author:
   name             : "Kyungbok Lee"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Reseacher"
-  location         : "Seoul, South Korea"
-  employer         : "Seoul National University"
+  location         : "Chapel Hill, NC"
+  employer         : "University of North Carolina at Chapel Hill"
   uri              : # URL
-  email            : "turtle107@snu.ac.kr" 
+  email            : "kyungbok@unc.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/KyungbokLee"
+  github           : "KyungbokLee"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
